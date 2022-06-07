@@ -1,0 +1,8 @@
+C:\Users\Роман\OneDrive\Рабочий стол\MyProjects\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+C:\Users\Роман\OneDrive\Рабочий стол\MyProjects\ToDoList\obj\Debug\ToDoList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Роман\OneDrive\Рабочий стол\MyProjects\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Роман\OneDrive\Рабочий стол\MyProjects\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\Роман\OneDrive\Рабочий стол\MyProjects\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\Роман\OneDrive\Рабочий стол\MyProjects\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\Роман\OneDrive\Рабочий стол\MyProjects\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\Роман\OneDrive\Рабочий стол\MyProjects\ToDoList\obj\Debug\ToDoList.pdb
